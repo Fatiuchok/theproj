@@ -15,4 +15,5 @@ class Student:
         self.grandness = 50
         self.progress = 0
         self.alive = True
+        self.mood = 20
 nick = Student("Alex")
